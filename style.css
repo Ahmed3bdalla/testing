@@ -1,4 +1,6 @@
 h1 {
     color: gray !important;
-    background-color: blue;
+}
+body {
+    background-color: aquamarine;
 }
